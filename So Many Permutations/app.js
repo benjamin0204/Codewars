@@ -22,7 +22,3 @@ function permutations(string) {
   }
   return answers;
 }
-
-console.log(permutations("a"));
-console.log(permutations("ab"));
-console.log(permutations("aabb"));
